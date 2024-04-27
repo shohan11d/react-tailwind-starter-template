@@ -1,6 +1,5 @@
 #  "React-Tailwind" template
-a template for react and tailwind CSS made with create-react-app
-
+ 
 This is a  react-tailwind template with create-react-app.
 
 ## Usage
